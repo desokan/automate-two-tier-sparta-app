@@ -1,13 +1,14 @@
 # 2-Tier Deployment Documentation Table of Content
 
-- [1. automate-mongodb-with-script.md](two-tier-automation/1.%20automate-mongodb-with-script.md)
-- [2. automate-nodejs-deployment-with-script.md](two-tier-automation/2.%20automate-nodejs-deployment-with-script.md)
+- [automate-mongodb-with-script.md](two-tier-automation/1.%20automate-mongodb-with-script.md)
+- [automate-nodejs-deployment-with-script.md](two-tier-automation/2.%20automate-nodejs-deployment-with-script.md)
 - [mongo-provision.sh](two-tier-automation/mongo-provision.sh)
 - [nodejs-provision.sh](two-tier-automation/nodejs-provision.sh)
 - [vm-for-nodejs-and-mongodb.md](two-tier-automation/vm-for-nodejs-and-mongodb.md)
 
 # Automate the 2-Tier App
 
+- [2-Tier Deployment Documentation Table of Content](#2-tier-deployment-documentation-table-of-content)
 - [Automate the 2-Tier App](#automate-the-2-tier-app)
   - [Explanations/steps of how you did it](#explanationssteps-of-how-you-did-it)
   - [How and why you used different levels of automation, from manual, to using Bash scripting, to using user data, to using VM images](#how-and-why-you-used-different-levels-of-automation-from-manual-to-using-bash-scripting-to-using-user-data-to-using-vm-images)
@@ -46,4 +47,3 @@
 ## Screenshots of different levels of automation working
 
 ## Blocker
-
