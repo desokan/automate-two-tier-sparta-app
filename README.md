@@ -1,7 +1,7 @@
 # 2-Tier Deployment Documentation Table of Content
 
-- [automate-mongodb-with-script.md](two-tier-automation/1.%20automate-mongodb-with-script.md)
-- [automate-nodejs-deployment-with-script.md](two-tier-automation/2.%20automate-nodejs-deployment-with-script.md)
+- [automate-mongodb-with-script.md](two-tier-automation/automate-mongodb-with-script.md)
+- [automate-nodejs-deployment-with-script.md](two-tier-automation/automate-nodejs-deployment-with-script.md)
 - [mongo-provision.sh](two-tier-automation/mongo-provision.sh)
 - [nodejs-provision.sh](two-tier-automation/nodejs-provision.sh)
 - [vm-for-nodejs-and-mongodb.md](two-tier-automation/vm-for-nodejs-and-mongodb.md)
