@@ -24,8 +24,10 @@
 
 - Progression Justification: The manual setup provided essential end-to-end understanding and a confirmation that the steps works. This knowledge informed Bash scripting to automate repetitive tasks. I then used User Data to automate the script execution during VM creation, streamlining provisioning. Finally, I used VM images to capture the complete configuration for rapid, consistent deployments.
 
-## A diagram of the cloud deployment architecture as you understand it
+## Diagram of the cloud deployment architecture
 
-## Evidence (screenshots) of different levels of automation working - this can also be shown by including screenshots of essential steps.
+![cloud-deployment-architecture.png](cloud-deployment-architecture.png)
 
-## At least the bigger blockers you experienced, how you dealt with them (worked through the troubleshooting), and your solution in the end
+## Screenshots of different levels of automation working
+
+## Blocker
