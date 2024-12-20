@@ -42,13 +42,13 @@
 
 ## Diagram of the cloud deployment architecture
 
-![cloud-deployment-architecture.png](cloud-deployment-architecture.png)
+![cloud-deployment-architecture.png](Assets/cloud-deployment-architecture.png)
 
 ## Screenshots of different levels of automation working
 
 The 4 levels of deployment are shown below. The image is created by Ramon Rossi (Sparta Global).
 
-![deployment-levels.png](deployment-levels.png)
+![deployment-levels.png](Assets/deployment-levels.png)
 
 ## Resolving Issues with Custom VM Image Provisioning
 
