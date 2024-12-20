@@ -1,4 +1,4 @@
-# 2-tier Deployment Documentation Table of Content
+# 2-Tier Deployment Documentation Table of Content
 
 - [1. automate-mongodb-with-script.md](two-tier-automation/1.%20automate-mongodb-with-script.md)
 - [2. automate-nodejs-deployment-with-script.md](two-tier-automation/2.%20automate-nodejs-deployment-with-script.md)
