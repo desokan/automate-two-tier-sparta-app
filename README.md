@@ -46,4 +46,10 @@
 
 ## Screenshots of different levels of automation working
 
-## Blocker
+The 4 levels of deployment are shown below. The image is created by Ramon Rossi (Sparta Global).
+
+![deployment-levels.png](deployment-levels.png)
+
+## Resolving Issues with Custom VM Image Provisioning
+
+The main challenge I faced was when I used a custom image to create a virtual machine. Despite using the same scripts in the user data, I encountered errors. I resolved this issue by iterating through the process and eventually discovered that I needed to export the environment variable while provisioning the VM from the custom image.
